@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" width="1280" height="400" role="img" aria-label="Candrecovia. Candidates. Recruiters. Companies. Connected.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07090d"/><stop offset="1" stop-color="#0b1a14"/></linearGradient>
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#25d366" stop-opacity="0.24"/><stop offset="1" stop-color="#25d366" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#25d366" stop-opacity="0.12"/><stop offset="1" stop-color="#25d366" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="rgba(255,255,255,0.045)" stroke-width="1"/></pattern>
+    <clipPath id="frame"><rect width="1280" height="400" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="400" fill="url(#bg)"/>
+    <rect width="1280" height="400" fill="url(#grid)"/>
+    <ellipse cx="250" cy="200" rx="300" ry="300" fill="url(#glowA)"/>
+    <ellipse cx="1180" cy="40" rx="360" ry="220" fill="url(#glowB)"/>
+  </g>
+  <circle cx="250" cy="200" r="118" fill="#11161f" stroke="rgba(255,255,255,0.09)" stroke-width="2"/>
+  <circle cx="250" cy="200" r="132" fill="none" stroke="#25d366" stroke-opacity="0.22" stroke-width="1.5"/>
+  <g transform="translate(178 128) scale(4.5)" fill="#40b786"><path fill-rule="evenodd" d="M16 15.908C15.937 15.819 16.223 15.453 16.327 15.201C16.432 14.95 16.6 14.219 16.72 13.891C16.841 13.564 17.134 12.909 17.297 12.582C17.459 12.254 17.818 11.6 18.03 11.272C18.242 10.945 18.721 10.29 18.999 9.963C19.277 9.635 19.911 8.98 20.256 8.653C20.602 8.326 21.388 7.671 21.775 7.343C22.163 7.016 22.993 6.361 23.347 6.034C23.701 5.706 24.379 5.051 24.761 4.724C25.144 4.397 26.205 3.611 26.412 3.414C26.619 3.218 27.755 2.754 28.088 2.629C28.421 2.503 28.942 2.44 29.083 2.419C29.225 2.398 29.505 2.445 29.581 2.471C29.657 2.498 29.686 2.581 29.686 2.629C29.686 2.676 29.636 2.754 29.607 2.786C29.578 2.817 29.586 2.851 29.45 2.891C29.314 2.93 28.782 3.184 28.507 3.414C28.232 3.645 27.488 4.397 27.25 4.724C27.011 5.051 26.729 5.706 26.595 6.034C26.461 6.361 26.283 7.016 26.176 7.343C26.068 7.671 25.859 8.326 25.731 8.653C25.602 8.98 25.314 9.635 25.154 9.963C24.995 10.29 24.704 10.945 24.447 11.272C24.19 11.6 23.779 12.254 23.478 12.582C23.177 12.909 22.535 13.564 22.247 13.891C21.959 14.219 21.5 14.874 21.252 15.201C21.003 15.529 20.728 16.183 20.571 16.511C20.413 16.838 20.157 17.493 20.099 17.82C20.042 18.148 19.892 18.803 19.863 19.13C19.835 19.457 19.795 20.277 19.785 20.44L19.785 30L12.215 30L12.215 20.44C12.205 20.277 12.165 19.457 12.137 19.13C12.108 18.803 11.958 18.148 11.901 17.82C11.843 17.493 11.587 16.838 11.429 16.511C11.272 16.183 10.997 15.529 10.748 15.201C10.5 14.874 10.041 14.219 9.753 13.891C9.465 13.564 8.823 12.909 8.522 12.582C8.221 12.254 7.81 11.6 7.553 11.272C7.296 10.945 7.005 10.29 6.846 9.963C6.686 9.635 6.398 8.98 6.269 8.653C6.141 8.326 5.932 7.671 5.824 7.343C5.717 7.016 5.539 6.361 5.405 6.034C5.271 5.706 4.989 5.051 4.75 4.724C4.512 4.397 3.768 3.645 3.493 3.414C3.218 3.184 2.686 2.93 2.55 2.891C2.414 2.851 2.422 2.817 2.393 2.786C2.364 2.754 2.314 2.676 2.314 2.629C2.314 2.581 2.343 2.498 2.419 2.471C2.495 2.445 2.775 2.398 2.917 2.419C3.058 2.44 3.579 2.503 3.912 2.629C4.245 2.754 5.381 3.218 5.588 3.414C5.795 3.611 6.856 4.397 7.239 4.724C7.621 5.051 8.299 5.706 8.653 6.034C9.007 6.361 9.837 7.016 10.225 7.343C10.612 7.671 11.398 8.326 11.744 8.653C12.089 8.98 12.723 9.635 13.001 9.963C13.279 10.29 13.758 10.945 13.97 11.272C14.182 11.6 14.541 12.254 14.703 12.582C14.866 12.909 15.159 13.564 15.28 13.891C15.4 14.219 15.568 14.95 15.673 15.201C15.777 15.453 16.063 15.819 16 15.908Z M14.245 18.606L16 19.89L17.755 18.606L17.755 27.774C17.755 28.062 17.467 28.062 17.467 28.062L14.533 28.062C14.245 28.062 14.245 28.062 14.245 27.774L14.245 18.606Z"/><circle cx="16" cy="5.3" r="3.3"/></g>
+  <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Inter, Helvetica, Arial, sans-serif">
+    <text x="440" y="118" font-size="15" font-weight="700" letter-spacing="2.4" fill="#71e18d">EXPLAINABLE  ·  EMPLOYER-BLIND  ·  FAIR</text>
+    <text x="436" y="206" font-size="76" font-weight="700" letter-spacing="3.4" fill="#40b786">CANDRECOVIA</text>
+    <text x="439" y="260" font-size="34" font-weight="700" fill="#eff0f3">Candidates. Recruiters. Companies. Connected.</text>
+    <text x="440" y="308" font-size="21" font-weight="500" fill="#a2a4aa">Every match scored, every score explained, every search private.</text>
+    <text x="1236" y="368" font-size="16" font-weight="600" text-anchor="end" fill="#a2a4aa">candrecovia.mehedihassan.top</text>
+  </g>
+</svg>
